@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ぎゅーどんかーにばる！",
+  "base_artist": "白銀ノエル",
+  "createdAt": "2026-02-23T10:24:26.236839Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぎゅーどんかーにばる!",
+      "artist": "白銀ノエル",
+      "has_synced": false,
+      "path": "select/pl_01_ぎゅーどんかーにばる!_白銀ノエル.txt"
+    }
+  ]
+}
